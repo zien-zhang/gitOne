@@ -1,0 +1,81 @@
+clone 克隆
+hover 模拟鼠标悬停的函数 hover(function(){},function(){}),
+click():jQuery括号中不写函数,则会自动触发单击事件.
+:header   标题选择器,固定写法.
+slide:  滑动
+tirm()  :  字符串去掉空格的api
+repository:仓库
+博学谷账号:A190201890
+travel:  旅游
+serialized:序列化
+transaction:事务
+full-stack   全栈框架
+annotation  注解
+Dependency Injection  依赖注入
+proceeding  正在进行的
+proceedingJoinPoint  切入点
+definition  定义
+propagation  事务的传播行为
+isolation  隔离级别  jdbcz中
+interceptor  拦截器
+completion 结束
+拼接  包含
+
+Authentication认证
+Authorization授权
+realm  领域,范围; 
+token: 令牌
+principal:主要的,主体的
+security:安全
+info:信息
+credential:凭据
+encrypt:加密
+permission:许可
+cache:缓存
+
+remote: 远程
+procedure:程序
+call:呼叫
+RPC:远程过程调用
+DNS:域名服务器
+registry:注册
+customer:消费者
+provider:供应者
+monitor:监测
+loadBalance:负载均衡
+
+
+
+contract: 合同
+product: 商品
+Clause:条款
+
+
+ship:船
+recipient: 收件人
+transport:发送器
+attachment:附件
+
+
+cluster:集群
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
