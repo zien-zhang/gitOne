@@ -5,7 +5,7 @@ public class HelloTest {
         System.out.println("Hello World!!!");
         System.out.println("李四修改了");
 
-		System.out.println("bbbbbbbbbbbb")
+		System.out.println("bbbbbbbbbbbb");
 
         System.out.println("aaaaaaaaaaaaaa");
 
